@@ -1,0 +1,19 @@
+{
+  "name": "showcookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node db.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  }
+}

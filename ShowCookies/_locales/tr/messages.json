@@ -1,0 +1,176 @@
+{
+    "showThis_httpOnly": {
+        "message": "httpOnly"
+    },
+    "showThis_no_cookies": {
+        "message": "Burada çerez yok!"
+    },
+    "showThis_Alert_submitAll": {
+        "message": "Çerez değişikliklerini kaydet"
+    },
+    "showThis_Options": {
+        "message": "Seçenekler"
+    },
+    "showThis_Blocked_Cookies": {
+        "message": "Engellenmiş Çerezler"
+    },
+    "showThis_minutes": {
+        "message": "dakika"
+    },
+    "showThis_cookiesDeleted": {
+        "message": "Çerezler Silindi"
+    },
+    "showThis_help": {
+        "message": "Yardım"
+    },
+    "showThis_Protected_Cookies": {
+        "message": "Korunan Çerezler"
+    },
+    "showThis_Source_Code": {
+        "message": "Yaren Eylül Dökmez Bitirme Projesi.  Üzerinde çok çalıştığım bir proje oldu umarım beğenirsiniz."
+    },
+    "showThis_Source_Code_Intro": {
+        "message": "ShowCookies kaynak koduna $1 adresinden ulaşabilirsiniz."
+    },
+    "showThis_flagAll": {
+        "message": "Hepsini blokla ve Sil"
+    },
+    "showThis_cookiesProtected": {
+        "message": "Sadece-okunan çerezler korunuyor"
+    },
+    "showThis_": {
+        "message": ""
+    },
+    "showThis_adsInfoAndSettings": {
+        "message": "bilgi ve ayarlar"
+    },
+    "showThis_useRegularExpressions": {
+        "message": "Düzenli ifadeler kullanabilirsiniz"
+    },
+    "showThis_Save": {
+        "message": "Kaydet"
+    },
+    "showThis_Show_ContextMenu_helper": {
+        "message": "Eğer aktifse, araç çubuğundaki gizle ikon sağ tıklayarak gizleyebilirsin"
+    },
+    "showThis_reset": {
+        "message": "Sıfırla"
+    },
+    "showThis_no": {
+        "message": "Hayır"
+    },
+    "showThis_description": {
+        "message": "Bu eklenti çerezlerin gösterildiği bir eklentidir. Buradan istenilen çerezler silinip korunabilir ve internet kullanımı tercihe göre yönlendirilir."
+    },
+    "showThis_time": {
+        "message": "Zaman"
+    },
+    "showThis_addRule": {
+        "message": "Bu kuralı ekle"
+    },
+    "showThis_Flag_CookieWithDomain": {
+        "message": "Alanadına göre blokla"
+    },
+    "showThis_cookiesFlagged": {
+        "message": "İşaretlenen Çerezler Silindi"
+    },
+    "showThis_Flag_CookieWithValue": {
+        "message": "Değere göre blokla"
+    },
+    "showThis_secure": {
+        "message": "güvenlik"
+    },
+    "showThis_hostOnly": {
+        "message": "hostOnly"
+    },
+    "showThis_session": {
+        "message": "Oturum"
+    },
+    "showThis_Flag_New_Cookie": {
+        "message": "Yeni çerezi etiketle"
+    },
+    "showThis_Set_ReadOnly": {
+        "message": "Sadece okunan yap"
+    },
+    "showThis_deleteAll": {
+        "message": "Hepsini sil"
+    },
+    "showThis_ReadOnly_Def": {
+        "message": "'Korunan çerez' hiçbir site veya eklenti tarafından değiştirilemeyen çerezdir."
+    },
+    "showThis_noReadOnlyAdded": {
+        "message": "Korunan çerez yok"
+    },
+    "showThis_Alert_deleteAll": {
+        "message": "Mevcut websitesi için olan tüm çerezleri sil"
+    },
+    "showThis_seconds": {
+        "message": "saniye"
+    },
+    "showThis_ContextMenu": {
+        "message": "Çerezleri düzenle"
+    },
+    "showThis_name": {
+        "message": "isim"
+    },
+    "showThis_domain": {
+        "message": "alanadı"
+    },
+    "showThis_path": {
+        "message": "adres"
+    },
+    "showThis_purpose": {
+        "message": "kullanım amacı"
+    },
+    "showThis_Is_ReadOnly": {
+        "message": "Korumalı"
+    },
+    "showThis_yes": {
+        "message": "Evet"
+    },
+    "showThis_backToList": {
+        "message": "Listeye geri dön"
+    },
+    "showThis_expiration": {
+        "message": "geçerlilik"
+    },
+    "showThis_updated": {
+        "message": "güncellendi."
+    },
+    "showThis_storeID": {
+        "message": "kayıt id"
+    },
+    "showThis_value": {
+        "message": "değer"
+    },
+    "showThis_Flag_CookieWithName": {
+        "message": "İsme göre blokla"
+    },
+    "showThis_noBlockAdded": {
+        "message": "Hiç engelleme kuralı eklenmedi"
+    },
+    "showThis_Alert_deleteRule": {
+        "message": "Bu kuralı sil"
+    },
+    "showThis_getting_started": {
+        "message": "Buradan başlayın"
+    },
+    "showThis_noStatsNotice": {
+        "message": "Henüz veri yok"
+    },
+    "showThis_newFilter": {
+        "message": "Yeni filtre"
+    },
+    "showThis_cancel": {
+        "message": "İptal"
+    },
+    "showThis_search": {
+        "message": "Arama"
+    },
+    "showThis_Alert_deleteCookie": {
+        "message": "Çerezi sil"
+    },
+    "showThis_Details": {
+        "message": "Detaylar"
+    }
+}

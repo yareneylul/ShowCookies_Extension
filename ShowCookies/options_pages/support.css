@@ -1,0 +1,30 @@
+
+li#support-chooser {
+    color: rgb(255, 0, 0);
+}
+
+li#support-chooser>img {
+    margin-left: -18px;
+}
+
+li#support-chooser:hover {
+    color: rgb(255, 100, 100);
+}
+
+li#support-chooser.selected {
+    -webkit-border-start-color: rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+}
+
+.table {
+    width: auto !important;
+    margin-left: 30px;
+}
+
+.table_row div {
+    height: 1.3em;
+}
+
+.table_data:hover {
+    background-color: #F7F7F7;
+}
